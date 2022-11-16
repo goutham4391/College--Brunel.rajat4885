@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.brunel.ac.uk	TRUE	/	FALSE	1999999999	__RequestVerificationToken	EDeDoqSET7MvQXEbZkgQRY2RO-GkVIDZnAXnbD-wWvGCsa_Bm49BDstdJOdwRo2ynlZiUtF3cDpD_WKWxizrPY3jZ73dZngPFoDRb-3WEYc1
+
